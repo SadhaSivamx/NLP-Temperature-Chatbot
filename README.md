@@ -3,5 +3,4 @@ Coco is an NLP chatbot designed to retrieve temperature and humidity values for 
 ## References
 built over the knowledge from acquired from the [video](https://www.youtube.com/watch?v=1lwddP0KUEg)
 ## Output
-
-![Screenshot 2023-11-09 151400](https://github.com/SadhaSivamx/NLP-Temperature-Chatbot/assets/106687593/60822d97-e0f1-4b02-a639-1d30f929e37f)
+![Project-Template (5)](https://github.com/SadhaSivamx/NLP-Temperature-Chatbot/assets/106687593/e04725fb-81a7-4a37-ac76-5a79e8eb64ad)
