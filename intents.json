@@ -1,0 +1,22 @@
+{"intents":[
+    {
+        "tag":"greetings",
+        "patterns": ["hello", "hi", "hey", "morning","evening"],
+        "responses":["Hey there!", "Hi, how are you?", "Hello! What's up?", "Morning! Ready for the day?", "Hola, amigo!"]
+    },
+    {
+        "tag":"goodbye",
+        "patterns": ["farewell", "bye", "see ya", "later", "ta-ta", "so long"],
+        "responses":["Goodbye!", "See you later!", "Farewell!", "Until we meet again!"]
+    },
+    {
+        "tag":"name",
+        "patterns": ["what's your name", "tell me your name", "your name please", "may I know your name", "name, please", "what do they call you", "how are you called", "identify yourself", "reveal your name", "share your name"],
+        "responses": ["my name is coco", "hello, I'm coco", "hey there, I go by coco", "coco is the name", "you can call me coco"]
+    },
+    {
+        "tag":"temp",
+        "patterns": ["how is the climate today", "what's the weather like today", "tell me about today's weather", "is it hot today", "any updates on today's weather", "what's the climate like right now", "describe today's weather conditions", "how's the weather today", "give me the current weather report", "what's the climate situation today"],
+        "responses": ["the weather is {} and humidity is {}","current conditions: {} temperature and {} humidity","today's forecast: {} with {} humidity","temperature: {}, humidity: {}","weather update - {} temperature, {} humidity","{} degrees with {} humidity","get ready for {} weather and {} humidity"]        
+    }
+]}
